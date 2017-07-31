@@ -1,0 +1,1 @@
+This repository named VNews will be used to sync the Project code and details.
